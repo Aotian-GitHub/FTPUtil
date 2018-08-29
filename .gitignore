@@ -10,3 +10,10 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+# 自定义忽略的文件
+.idea/
+*.iml
+.settings/
+.classpath
+.project
